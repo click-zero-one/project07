@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_app=self.webpackChunkreact_app||[]).push([[24],{24:(e,a,s)=>{s.r(a),s.d(a,{default:()=>d});var t=s(791),h=s(689),r=s(184);const d=()=>{let[e,a]=(0,t.useState)("hide-header"),s=(0,h.TH)();return(0,t.useEffect)((()=>{"/"===s.pathname?a("show-header"):a("hide-header")}),[s.pathname]),(0,r.jsx)("header",{className:e,children:(0,r.jsx)("div",{className:"title_header"})})}}}]);
+//# sourceMappingURL=24.b3784787.chunk.js.map
